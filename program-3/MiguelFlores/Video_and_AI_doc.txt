@@ -1,0 +1,4 @@
+VIDEO:
+    https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=200cd654-e0a8-45e7-a7ef-b42b002a6746
+AI:
+    https://gemini.google.com/share/cb92844cf723
